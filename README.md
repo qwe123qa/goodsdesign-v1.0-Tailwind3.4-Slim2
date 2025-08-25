@@ -1,4 +1,4 @@
-# Tailwind3.4-Slim2-for-goodsdesign
+# goodsdesign-v1.0-Tailwind3.4-Slim2
 
 這是一套結合 **Gulp + TailwindCSS + Babel**（前端）與 **PHP Slim2**（後端路由）的開發環境。  
 目標是提供 **快速開發、即時預覽、清晰路由** 的工作流程，並支援正式環境部署。  
